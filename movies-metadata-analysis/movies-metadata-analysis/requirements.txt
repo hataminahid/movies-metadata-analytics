@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn>=1.7.2   # kmeans_final_model.pkl was saved with 1.7.2
+joblib
+missingno
+pyampute
+tensorflow
+jupyter
