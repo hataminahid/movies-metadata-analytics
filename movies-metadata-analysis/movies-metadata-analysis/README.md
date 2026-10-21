@@ -45,7 +45,7 @@ The first cell installs the extra packages, clones this repo (edit `REPO_URL` in
 ### Option B — Local
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/movies-metadata-analysis.git
+git clone https://github.com/hataminahid/movies-metadata-analysis.git
 cd movies-metadata-analysis
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
